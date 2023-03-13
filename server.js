@@ -72,9 +72,10 @@ io.on('connection', (socket) => {
         socketId: socket.id,
         username: userSocketMap[socket.id],
       });
+      socket.leave();
     });
     delete userSocketMap[socket.id];
-    socket.leave();
+   
   });
 });
 
