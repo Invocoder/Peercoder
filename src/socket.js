@@ -8,6 +8,6 @@ export const initSocket = async () => {
         timeout: 10000,
         transports: ['websocket'],
     };
-    return io(process.env.REACT_APP_BACKEND_URL, options);
+     return io("http://13.49.102.45:5000", options);
 };
 // yarn upgrade codemirror@5.65.12
