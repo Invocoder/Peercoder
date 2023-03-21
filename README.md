@@ -1,8 +1,8 @@
 To setup on your local system:
 1. Clone the repository.
-2. Run command: ### 'npm install'.
-3. Run command: ### 'npm install socket.io'
-4. Run commans: ### 'node server.js'.
+2. Run command: ### `npm install`
+3. Run command: ### `npm install socket.io`
+4. Run commans: ### `node server.js`
 5. You will see - Listening on port 5000.
 6. Go to "Localhost:5000" in your browser and you ca start using it.
 
