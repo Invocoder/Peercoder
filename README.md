@@ -32,13 +32,9 @@ Peercoder uses
   * react-hot-toast
   * react-router
   * UUID
-  
-  at ### Frontend ###
-  
-       and
-       
+  at Frontend and
   * Node.js
   * Express.js
   * Socket.io
   
-   at ### Backend ###.
+   at Backend.
