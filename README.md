@@ -10,8 +10,7 @@ Projects snapshots.
 
 | Create Room | Code-Editor | Use room Id to join |
 |:-:|:-:|:-:|
-|  ![First](https://user-images.githubusercontent.com/51221607/226575114-290fd8b0-239e-4289-870a-d6789583eabb.png) |  ![Second](https://user-images.githubusercontent.com/51221607/226575154-10bde2f1-8aff-4d09-8a88-bf7be88bb740.png |
-![Third](https://user-images.githubusercontent.com/51221607/226575174-741293b6-1bbb-4b1b-8fd7-a7ab79996516.png)
+| ![First](https://user-images.githubusercontent.com/51221607/226575114-290fd8b0-239e-4289-870a-d6789583eabb.png) | ![Second](https://user-images.githubusercontent.com/51221607/226575154-10bde2f1-8aff-4d09-8a88-bf7be88bb740.png | ![Third](https://user-images.githubusercontent.com/51221607/226575174-741293b6-1bbb-4b1b-8fd7-a7ab79996516.png)
 
 | Joined Room as a peer | Code-synnc | Leave Room |
 |:-:|:-:|:-:|
